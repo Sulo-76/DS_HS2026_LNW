@@ -1,0 +1,572 @@
+[
+  {
+    "id": "AS-1950",
+    "review_count": 39,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-1951",
+    "review_count": 19,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-1952",
+    "review_count": 5,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-1953",
+    "review_count": 46,
+    "avg_score": 4.1
+  },
+  {
+    "id": "AS-1954",
+    "review_count": 39,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-1955",
+    "review_count": 22,
+    "avg_score": 3.4
+  },
+  {
+    "id": "AS-2001",
+    "review_count": 82,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2002",
+    "review_count": 94,
+    "avg_score": 4.0
+  },
+  {
+    "id": "AS-2003",
+    "review_count": 12,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2004",
+    "review_count": 10,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2005",
+    "review_count": 47,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2006",
+    "review_count": 40,
+    "avg_score": 1.9
+  },
+  {
+    "id": "AS-2007",
+    "review_count": 6,
+    "avg_score": 4.3
+  },
+  {
+    "id": "AS-2008",
+    "review_count": 53,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2010",
+    "review_count": 64,
+    "avg_score": 5.0
+  },
+  {
+    "id": "AS-2011",
+    "review_count": 68,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2012",
+    "review_count": 29,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2013",
+    "review_count": 24,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2014",
+    "review_count": 50,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2015",
+    "review_count": 87,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2016",
+    "review_count": 35,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2018",
+    "review_count": 12,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2019",
+    "review_count": 55,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2020",
+    "review_count": 21,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2021",
+    "review_count": 14,
+    "avg_score": 4.2
+  },
+  {
+    "id": "AS-2022",
+    "review_count": 15,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2023",
+    "review_count": 53,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2024",
+    "review_count": 48,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2025",
+    "review_count": 19,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2026",
+    "review_count": 22,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2027",
+    "review_count": 20,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2029",
+    "review_count": 71,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2030",
+    "review_count": 9,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2031",
+    "review_count": 6,
+    "avg_score": 4.2
+  },
+  {
+    "id": "AS-2032",
+    "review_count": 21,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2033",
+    "review_count": 10,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2034",
+    "review_count": 26,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2035",
+    "review_count": 14,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2036",
+    "review_count": 51,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2037",
+    "review_count": 24,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2038",
+    "review_count": 17,
+    "avg_score": 4.2
+  },
+  {
+    "id": "AS-2039",
+    "review_count": 10,
+    "avg_score": 3.8
+  },
+  {
+    "id": "AS-2040",
+    "review_count": 22,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2041",
+    "review_count": 28,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2042",
+    "review_count": 76,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2043",
+    "review_count": 17,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2044",
+    "review_count": 12,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2045",
+    "review_count": 51,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2046",
+    "review_count": 22,
+    "avg_score": 4.1
+  },
+  {
+    "id": "AS-2047",
+    "review_count": 56,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2048",
+    "review_count": 19,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2049",
+    "review_count": 52,
+    "avg_score": 3.5
+  },
+  {
+    "id": "AS-2050",
+    "review_count": 12,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2051",
+    "review_count": 32,
+    "avg_score": 2.4
+  },
+  {
+    "id": "AS-2052",
+    "review_count": 22,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2053",
+    "review_count": 54,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2054",
+    "review_count": 18,
+    "avg_score": 4.1
+  },
+  {
+    "id": "AS-2055",
+    "review_count": 76,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2056",
+    "review_count": 3,
+    "avg_score": 4.0
+  },
+  {
+    "id": "AS-2057",
+    "review_count": 30,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2058",
+    "review_count": 98,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2059",
+    "review_count": 12,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2060",
+    "review_count": 24,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2061",
+    "review_count": 24,
+    "avg_score": 3.8
+  },
+  {
+    "id": "AS-2064",
+    "review_count": 11,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2065",
+    "review_count": 23,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2066",
+    "review_count": 12,
+    "avg_score": 4.0
+  },
+  {
+    "id": "AS-2067",
+    "review_count": 33,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2068",
+    "review_count": 43,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2069",
+    "review_count": 66,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2070",
+    "review_count": 7,
+    "avg_score": 3.6
+  },
+  {
+    "id": "AS-2071",
+    "review_count": 9,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2072",
+    "review_count": 25,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2073",
+    "review_count": 17,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2075",
+    "review_count": 11,
+    "avg_score": 3.4
+  },
+  {
+    "id": "AS-2076",
+    "review_count": 15,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2077",
+    "review_count": 43,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2078",
+    "review_count": 38,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2080",
+    "review_count": 42,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2081",
+    "review_count": 7,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2082",
+    "review_count": 15,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2083",
+    "review_count": 20,
+    "avg_score": 4.8
+  },
+  {
+    "id": "AS-2084",
+    "review_count": 21,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2085",
+    "review_count": 15,
+    "avg_score": 4.9
+  },
+  {
+    "id": "AS-2086",
+    "review_count": 9,
+    "avg_score": 4.9
+  },
+  {
+    "id": "AS-2087",
+    "review_count": 48,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2088",
+    "review_count": 12,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2089",
+    "review_count": 13,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2090",
+    "review_count": 37,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2091",
+    "review_count": 33,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2092",
+    "review_count": 23,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2093",
+    "review_count": 15,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2094",
+    "review_count": 35,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2095",
+    "review_count": 59,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2096",
+    "review_count": 7,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2097",
+    "review_count": 28,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2098",
+    "review_count": 38,
+    "avg_score": 2.8
+  },
+  {
+    "id": "AS-2099",
+    "review_count": 22,
+    "avg_score": 3.9
+  },
+  {
+    "id": "AS-2102",
+    "review_count": 11,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2105",
+    "review_count": 19,
+    "avg_score": 4.9
+  },
+  {
+    "id": "AS-2106",
+    "review_count": 10,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2107",
+    "review_count": 85,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2108",
+    "review_count": 6,
+    "avg_score": 4.2
+  },
+  {
+    "id": "AS-2109",
+    "review_count": 30,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2110",
+    "review_count": 32,
+    "avg_score": 4.5
+  },
+  {
+    "id": "AS-2111",
+    "review_count": 34,
+    "avg_score": 4.4
+  },
+  {
+    "id": "AS-2113",
+    "review_count": 4,
+    "avg_score": 4.3
+  },
+  {
+    "id": "AS-2114",
+    "review_count": 14,
+    "avg_score": 3.6
+  },
+  {
+    "id": "AS-2115",
+    "review_count": 57,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2116",
+    "review_count": 28,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2117",
+    "review_count": 7,
+    "avg_score": 4.6
+  },
+  {
+    "id": "AS-2118",
+    "review_count": 22,
+    "avg_score": 4.0
+  },
+  {
+    "id": "AS-2119",
+    "review_count": 15,
+    "avg_score": 4.7
+  },
+  {
+    "id": "AS-2120",
+    "review_count": 23,
+    "avg_score": 4.1
+  }
+]

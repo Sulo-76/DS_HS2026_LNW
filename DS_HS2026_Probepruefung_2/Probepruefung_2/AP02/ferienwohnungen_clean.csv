@@ -1,0 +1,121 @@
+listing_id,location,type,rooms,area_m2,max_guests,distance_lift_m,host_type,price_night_chf
+AS-2001,Engelberg,Chalet,6.0,176.0,11,105,Agentur,445.0
+AS-2002,Arosa,Wohnung,5.5,132.0,8,1291,Agentur,215.0
+AS-2003,Gstaad,Wohnung,2.0,43.0,3,584,Agentur,470.0
+AS-2004,Lenk,Studio,1.0,32.0,3,55,Privat,70.0
+AS-2005,Engelberg,Wohnung,4.5,,8,254,Privat,215.0
+AS-2006,Gstaad,Wohnung,4.0,94.0,7,597,Agentur,545.0
+AS-2007,Grindelwald,Chalet,8.5,262.0,14,539,Agentur,695.0
+AS-2008,St. Moritz,Wohnung,5.0,116.0,8,1314,Agentur,420.0
+AS-2009,Lenk,Wohnung,3.5,88.0,6,1389,Agentur,170.0
+AS-2010,St. Moritz,Studio,1.0,26.0,2,344,Privat,180.0
+AS-2011,Lenk,Chalet,4.0,101.0,6,1673,Agentur,365.0
+AS-2012,Davos,Wohnung,4.0,98.0,7,2423,Privat,280.0
+AS-2013,Arosa,Wohnung,5.5,133.0,9,76,Agentur,250.0
+AS-2014,Saas-Fee,Studio,1.5,26.0,3,2022,Privat,120.0
+AS-2015,Davos,Wohnung,4.0,96.0,7,292,Privat,290.0
+AS-2016,Gstaad,Chalet,4.0,106.0,7,499,Agentur,1120.0
+AS-2017,Grindelwald,Studio,1.0,30.0,3,1097,Privat,120.0
+AS-2018,Arosa,Wohnung,5.5,131.0,8,528,Agentur,235.0
+AS-2019,Davos,Studio,1.0,31.0,2,163,Privat,110.0
+AS-2020,Gstaad,Wohnung,4.5,109.0,7,2204,Agentur,555.0
+AS-2021,St. Moritz,Chalet,7.5,304.0,12,1586,Agentur,0.0
+AS-2022,Engelberg,Wohnung,3.5,82.0,6,148,Privat,215.0
+AS-2023,Davos,Wohnung,4.0,93.0,7,153,Agentur,260.0
+AS-2024,Lenk,Wohnung,2.0,50.0,3,503,Agentur,135.0
+AS-2025,Saas-Fee,Studio,1.0,51.0,4,549,Privat,115.0
+AS-2026,Laax,Wohnung,3.5,84.0,6,53,Agentur,200.0
+AS-2027,Zermatt,Wohnung,5.0,121.0,9,201,Agentur,360.0
+AS-2028,Saas-Fee,Wohnung,4.5,110.0,7,1536,Agentur,220.0
+AS-2029,Engelberg,Chalet,6.0,181.0,11,399,Agentur,565.0
+AS-2030,St. Moritz,Wohnung,4.0,97.0,7,505,Privat,465.0
+AS-2031,St. Moritz,Wohnung,3.0,,5,1922,Privat,430.0
+AS-2032,Laax,Studio,1.0,27.0,3,485,Agentur,120.0
+AS-2033,Gstaad,Wohnung,2.0,,3,562,Privat,470.0
+AS-2034,Arosa,Wohnung,3.0,,4,266,Privat,185.0
+AS-2035,Saas-Fee,Studio,1.0,45.0,3,134,Privat,100.0
+AS-2036,Laax,Chalet,4.0,119.0,8,225,Agentur,600.0
+AS-2037,Grindelwald,Wohnung,3.0,67.0,5,585,Privat,215.0
+AS-2038,Zermatt,Chalet,4.0,100.0,7,1330,Agentur,950.0
+AS-2039,Arosa,Wohnung,2.5,57.0,5,2098,Agentur,215.0
+AS-2040,Arosa,Chalet,5.5,164.0,11,98,Agentur,465.0
+AS-2041,Grindelwald,Wohnung,3.0,77.0,6,40,Agentur,220.0
+AS-2042,Laax,Wohnung,3.5,88.0,7,272,Privat,235.0
+AS-2043,Arosa,Studio,1.0,,4,613,Privat,105.0
+AS-2044,Grindelwald,Chalet,8.0,233.0,14,541,Agentur,675.0
+AS-2045,Zermatt,Wohnung,2.0,52.0,4,1495,Privat,305.0
+AS-2046,Grindelwald,Wohnung,3.5,84.0,5,1834,Privat,215.0
+AS-2047,St. Moritz,Chalet,7.5,227.0,12,246,Agentur,0.0
+AS-2048,Zermatt,Wohnung,2.5,61.0,5,403,Privat,400.0
+AS-2049,Saas-Fee,Wohnung,4.0,100.0,7,2509,Agentur,215.0
+AS-2050,Gstaad,Wohnung,5.0,123.0,9,653,Agentur,585.0
+AS-2051,Lenk,Wohnung,4.0,102.0,7,1091,Agentur,175.0
+AS-2052,Davos,Studio,1.0,55.0,4,234,Agentur,140.0
+AS-2053,Laax,Wohnung,2.0,53.0,3,636,Agentur,205.0
+AS-2054,Zermatt,Chalet,8.0,240.0,14,781,Agentur,1120.0
+AS-2055,Grindelwald,Studio,1.5,,2,345,Privat,110.0
+AS-2056,St. Moritz,Studio,1.0,41.0,4,1486,Privat,225.0
+AS-2057,Zermatt,Studio,1.0,43.0,3,459,Privat,205.0
+AS-2058,Zermatt,Wohnung,2.0,53.0,4,688,Agentur,355.0
+AS-2059,Zermatt,Wohnung,2.0,47.0,3,520,Agentur,325.0
+AS-2060,Saas-Fee,Wohnung,5.0,122.0,9,880,Privat,240.0
+AS-2061,Engelberg,Chalet,4.0,113.0,7,2341,Privat,415.0
+AS-2062,Davos,Chalet,8.5,256.0,14,2485,Agentur,855.0
+AS-2063,Davos,Wohnung,3.0,72.0,4,511,Agentur,245.0
+AS-2064,Laax,Wohnung,3.5,88.0,6,531,Agentur,240.0
+AS-2065,Arosa,Studio,1.0,,4,395,Privat,90.0
+AS-2066,Saas-Fee,Wohnung,5.5,129.0,8,1878,Privat,260.0
+AS-2067,Davos,Wohnung,4.0,94.0,6,296,Agentur,250.0
+AS-2068,Laax,Wohnung,4.0,102.0,6,584,Privat,275.0
+AS-2069,Saas-Fee,Studio,1.0,,3,279,Privat,95.0
+AS-2070,Lenk,Wohnung,4.0,99.0,6,1946,Agentur,145.0
+AS-2071,Saas-Fee,Wohnung,4.5,107.0,8,371,Agentur,230.0
+AS-2072,Engelberg,Chalet,4.5,140.0,10,1774,Privat,515.0
+AS-2073,St. Moritz,Studio,1.5,44.0,4,160,Agentur,180.0
+AS-2074,Grindelwald,Wohnung,2.0,45.0,4,86,Privat,220.0
+AS-2075,Lenk,Wohnung,2.5,60.0,4,2424,Privat,165.0
+AS-2076,Davos,Wohnung,5.0,,9,1309,Privat,270.0
+AS-2077,Zermatt,Wohnung,4.5,103.0,7,429,Privat,420.0
+AS-2078,Engelberg,Studio,1.0,34.0,3,80,Privat,95.0
+AS-2079,Davos,Studio,1.5,48.0,3,331,Agentur,130.0
+AS-2080,Engelberg,Wohnung,3.0,69.0,5,465,Privat,175.0
+AS-2081,Zermatt,Chalet,4.0,106.0,8,440,Agentur,915.0
+AS-2082,Davos,Wohnung,4.0,97.0,6,365,Agentur,280.0
+AS-2083,Laax,Wohnung,2.5,60.0,5,132,Privat,245.0
+AS-2084,Zermatt,Chalet,8.0,238.0,14,467,Agentur,1140.0
+AS-2085,Davos,Chalet,4.5,,10,63,Privat,540.0
+AS-2086,Gstaad,Wohnung,3.0,73.0,6,390,Agentur,485.0
+AS-2087,Grindelwald,Wohnung,4.0,100.0,7,449,Privat,270.0
+AS-2088,Lenk,Chalet,7.0,209.0,14,316,Agentur,465.0
+AS-2089,Zermatt,Chalet,4.0,124.0,8,906,Agentur,940.0
+AS-2090,Laax,Wohnung,3.0,66.0,5,551,Privat,210.0
+AS-2091,Davos,Studio,1.0,49.0,4,142,Agentur,120.0
+AS-2092,Gstaad,Chalet,7.5,283.0,12,588,Agentur,0.0
+AS-2093,Grindelwald,Studio,1.0,54.0,3,443,Privat,110.0
+AS-2094,Grindelwald,Wohnung,2.0,45.0,4,552,Privat,240.0
+AS-2095,Gstaad,Chalet,7.5,229.0,12,2176,Agentur,0.0
+AS-2096,Grindelwald,Wohnung,5.0,116.0,8,123,Privat,260.0
+AS-2097,St. Moritz,Chalet,8.5,264.0,14,313,Agentur,1100.0
+AS-2098,Arosa,Chalet,8.0,,14,2104,Privat,720.0
+AS-2099,Saas-Fee,Wohnung,5.0,119.0,8,2410,Agentur,260.0
+AS-2100,Zermatt,Wohnung,4.5,,8,337,Privat,375.0
+AS-2101,St. Moritz,Chalet,8.0,,14,100,Agentur,1140.0
+AS-2102,Zermatt,Wohnung,5.0,114.0,8,428,Agentur,355.0
+AS-2103,Arosa,Wohnung,5.5,134.0,9,450,Privat,205.0
+AS-2104,Davos,Chalet,4.0,123.0,8,218,Agentur,570.0
+AS-2105,St. Moritz,Chalet,4.0,114.0,7,91,Agentur,905.0
+AS-2106,Arosa,Chalet,7.0,211.0,14,543,Agentur,535.0
+AS-2107,Zermatt,Studio,1.0,52.0,3,497,Privat,170.0
+AS-2108,Lenk,Wohnung,3.5,85.0,6,1603,Privat,185.0
+AS-2109,Gstaad,Chalet,4.0,91.0,6,854,Agentur,1140.0
+AS-2110,Zermatt,Chalet,7.0,212.0,13,907,Agentur,940.0
+AS-2111,Engelberg,Chalet,4.0,108.0,7,578,Agentur,420.0
+AS-2112,Laax,Wohnung,3.5,,6,224,Privat,210.0
+AS-2113,St. Moritz,Wohnung,2.0,42.0,3,830,Agentur,385.0
+AS-2114,St. Moritz,Studio,1.0,26.0,2,2526,Privat,205.0
+AS-2115,Gstaad,Chalet,7.5,271.0,12,438,Agentur,0.0
+AS-2116,Laax,Wohnung,5.0,117.0,8,140,Privat,260.0
+AS-2117,Grindelwald,Studio,1.0,55.0,3,520,Agentur,125.0
+AS-2118,Gstaad,Chalet,7.5,302.0,12,1009,Agentur,0.0
+AS-2119,St. Moritz,Wohnung,2.0,45.0,3,205,Agentur,385.0
+AS-2120,Engelberg,Wohnung,5.5,129.0,8,468,Agentur,215.0
